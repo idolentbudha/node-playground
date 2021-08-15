@@ -1,4 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-/note-app/node_modules
-/node-mysql-crud/node_modules
+/express-jwt-mongoose-note-api/node_modules
+/express-mysql-crud-api/node_modules
+/express-mysql-ejs-app/node_modules
